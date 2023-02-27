@@ -1,2 +1,0 @@
-# HauiNhapMonLapTrinh
-DaiHocCongNghiepHN
